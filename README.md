@@ -1,4 +1,5 @@
-# OIBSIP
+// Task1
+
 import java.util.Scanner;
 
 public class NumberGuessingGame {
